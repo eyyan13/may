@@ -369,8 +369,8 @@ nav a {
     padding: 40px;
   }
   .sir{
-    width: 50%;
-    height: 50%;
+    width: 48%;
+    height: 43%;
   }
   .sir2{
     width: 50%;
@@ -392,6 +392,9 @@ nav a {
   }
   .mope{
    visibility: hidden;
+  }
+  .mopping{
+    margin-left: -40px;
   }
 }
 
