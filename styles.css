@@ -390,6 +390,9 @@ nav a {
   .silk{
     margin-top: 4px;
   }
+  .mope{
+   visibility: hidden;
+  }
 }
 
 
